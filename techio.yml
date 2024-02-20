@@ -1,0 +1,10 @@
+title: KATA E2E UUV
+plan:
+- title: English kata
+  statement: markdowns/README.md
+#- title: French kata
+#statement: markdowns/README_FR.md
+projects:
+  kata-uuv:
+    root: /kata
+    runner: node:18.19.1
